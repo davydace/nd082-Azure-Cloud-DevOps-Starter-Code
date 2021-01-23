@@ -44,4 +44,5 @@ you can also define important variables in var.tf file like:
 
 
 ### Output
-**Your words here**
+At the end of this exercise, you should get result similar to the screen shot below
+![output](https://github.com/davydace/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/Output.png?raw=true)
